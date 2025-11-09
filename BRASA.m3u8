@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="CANAIS FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",A&E FHD
-http://saga10.pro:80/345715/562156/2639888
-#EXTINF:-1 group-title="CANAIS FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",A&E HD
-http://saga10.pro:80/345715/562156/2639889
-#EXTINF:-1 group-title="CANAIS FILMES E SERIES" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/u4dadg.png",A&E SD
-http://saga10.pro:80/345715/562156/2639890
-#EXTINF:-1 group-title="Filmes" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/924/fvDFKC.png",ACÚSTICO INTERNACIONAL - CLIPES
-http://saga10.pro:80/345715/562156/2627276
-#EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/htkAmM.png",AGRO+ HD
-http://saga10.pro:80/345715/562156/1263147
-#EXTINF:-1 group-title="CANAIS ABERTOS" tvg-logo="https://imagizer.imageshack.com/v2/640x480q90/922/htkAmM.png",AGRO+ SD
-http://saga10.pro:80/345715/562156/1263146
 #EXTINF:-1 group-title="CANAIS | ESPORTES PAY-PER-VIEW" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/923/vmxvzS.png",ALL SPORTS
 http://saga10.pro:80/345715/562156/2649030
 #EXTINF:-1 group-title="CANAIS | ESPORTES PAY-PER-VIEW" tvg-logo="http://tbsrv.me/images/Biifm5rtdRqCOVgLYDRxM5LqCCrf0Yp_0mekcJAA3qBRcI3UPQVaZksNPq-WsrthARdWRT3uitTowwWHVArO0g.png",AMAZON PRIME - 01
